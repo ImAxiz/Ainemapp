@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funktsioonid</title>
+</head>
+<body>
+    
+    <button onclick="myName()">Kuva minu nimi</button>
+    <button onclick="myNameNoolefunktsioon()">Kuva minu nimi</button>
+    
+    <div>
+        <h3>Kuupäev Eesti keeles:</h3>
+        <input type="text" id="month" placeholder="Sisesta kuupäev (nt 19.07.23)">
+        <button onclick="monthsEst()">Kuva kuupäev</button>
+        <p id="monthResult"></p>
+    </div>
+
+    <div>
+        <h3>Summa ja Keskmine:</h3>
+        <input type="text" id="numbrid" placeholder="Sisesta numbrid, nt 1,2,3">
+        <button onclick="arvutaSummaJaKeskmine()">Kalkuleeri</button>
+        <p id="summaKeskmineTulemus"></p>
+    </div>
+
+    <div>
+        <h3>Salajane Sõnum:</h3>
+        <input type="text" id="message" placeholder="Sisesta sõnum">
+        <button onclick="secretMessage()">Kuva salajane sõnum</button>
+        <p id="secretMessageResult"></p>
+    </div>
+
+    <div>
+        <h3>Unikaalsed Nimed:</h3>
+        <input type="text" id="names" placeholder="Sisesta nimed, nt Kati,Mati,Kati">
+        <button onclick="findUnique()">Kuva unikaalsed nimed</button>
+        <p id="uniqueNamesResult"></p>
+    </div>
+
+    <script src="ylesanne9.js"></script>
+</body>
+</html>

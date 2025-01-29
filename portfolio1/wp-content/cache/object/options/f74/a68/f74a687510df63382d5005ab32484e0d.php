@@ -1,0 +1,1 @@
+?l†g<?php exit; ?>a:2:{s:7:"content";s:303:"{"common.install":1733834086,"common.install_version":"2.8.0","license.status":"no_key","license.next_check":1737169234,"license.terms":"","license.community_terms":"accept","common.show_note.plugins_updated":true,"common.show_note.plugins_updated.timestamp":1736248654,"tasks.last_run_version":"2.8.2"}";s:15:"key_version_all";i:1;}

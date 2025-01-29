@@ -1,0 +1,1 @@
+6QXg<?php exit; ?>a:2:{s:7:"content";a:3:{i:0;O:8:"stdClass":2:{s:7:"term_id";i:7;s:9:"object_id";i:51;}i:1;O:8:"stdClass":2:{s:7:"term_id";i:5;s:9:"object_id";i:51;}i:2;O:8:"stdClass":2:{s:7:"term_id";i:6;s:9:"object_id";i:51;}}s:15:"key_version_all";i:2;}

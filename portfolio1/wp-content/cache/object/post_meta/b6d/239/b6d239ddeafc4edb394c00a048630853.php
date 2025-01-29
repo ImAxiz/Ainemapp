@@ -1,0 +1,1 @@
+m¢™g<?php exit; ?>a:2:{s:7:"content";a:1:{s:22:"wpforms_form_locations";a:1:{i:0;s:144:"a:1:{i:0;a:6:{s:4:"type";s:4:"page";s:5:"title";s:4:"Form";s:7:"form_id";i:77;s:2:"id";i:81;s:6:"status";s:7:"publish";s:3:"url";s:6:"/form/";}}";}}s:15:"key_version_all";i:1;}

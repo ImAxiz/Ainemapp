@@ -1,0 +1,1 @@
+’õ–g<?php exit; ?>a:2:{s:7:"content";a:2:{s:19:"extendify_form_type";a:1:{i:0;s:28:"simple-contact-form-template";}s:22:"wpforms_form_locations";a:1:{i:0;s:6:"a:0:{}";}}s:15:"key_version_all";i:1;}

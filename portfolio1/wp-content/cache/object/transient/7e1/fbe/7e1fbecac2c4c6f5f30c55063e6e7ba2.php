@@ -1,0 +1,1 @@
+Ø9Xg<?php exit; ?>a:2:{s:7:"content";a:3:{s:13:"timestamp_end";i:1733835169;s:9:"size_used";s:8:"130.5 KB";s:5:"items";s:1:"2";}s:15:"key_version_all";i:2;}
